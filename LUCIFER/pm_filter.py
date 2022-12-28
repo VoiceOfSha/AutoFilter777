@@ -587,7 +587,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ],[
             InlineKeyboardButton('Rᴇᴘᴏʀᴛ Bᴜɢs & Fᴇᴇᴅʙᴀᴄᴋ', url=GRP_LNK)
         ],[
-            InlineKeyboardButton('Lᴜᴄɪғᴇʀ Fɪʟᴇs Cʜᴀɴɴᴇʟ', url=FILE_CHANNEL_LINK)
+            InlineKeyboardButton('Pushpan Fɪʟᴇs Cʜᴀɴɴᴇʟ', url=FILE_CHANNEL_LINK)
         ],[
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
@@ -750,13 +750,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "kd_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('Lᴜᴄɪғᴇʀ Bᴏᴛ Lᴏɢs', url="https://t.me/LuciferBot_logs")
+                      InlineKeyboardButton('Vipzz Bᴏᴛ Lᴏɢs', url="https://t.me/vipzz_support")
                      ], [
-                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/mh_request'),
-                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/movieshouse8')
+                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/RequestTP'),
+                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/RequestTP')
                      ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/kdbotz_support'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/kd_botz')
+                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/vipzz_support'),
+                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/RequestTP')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
