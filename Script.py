@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/vipzzk>ᴠɪᴘᴢᴢ ᴋ</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/kd_botz>RequestTP ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/RequestTP>RequestTP ⚡</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ3.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
