@@ -23,9 +23,9 @@ PORT = environ.get("PORT", "8080")
 TIMEZONE = environ.get("TIMEZONE", "Asia/Kolkata")
 
 PICS = (environ.get('PICS', 'https://telegra.ph/file/705593c3ae56831c8e565.jpg https://telegra.ph/file/869de5ba9ac7e61559f24.jpg https://telegra.ph/file/4f3d1cc0b1375ae596b16.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/46443096bc6895c74a716.jpg")
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/90ad57665fd7cd0fa9853.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/c41b27e1901b2ac3126dd.jpg")
-NEWGRP = environ.get("NEWGRP", "https://telegra.ph/file/12363ac53466005f11470.jpg")
+NEWGRP = environ.get("NEWGRP", "hhttps://telegra.ph/file/e915d0651f24c0c653c9c.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -46,7 +46,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Channel Button Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/RequestTP')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Pushpan2')
-SUPPORT_CHAT = environ.get('GRP_LNK', 'https://t.me/RequestTP')
+SUPPORT_CHAT = environ.get('GRP_LNK', 'https://t.me/vipzz_support')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
