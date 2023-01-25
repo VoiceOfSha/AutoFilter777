@@ -11,7 +11,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Sharathitsisme>ᴠɪᴘᴢᴢ ᴋ</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Sharathitsisme>Sharath</a></b>
 
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/TamilanMoviesChat>Movie Request ⚡</a></b>
 
